@@ -127,7 +127,7 @@ footer {
     text-align: center;
     margin: 0px;
     word-wrap: break-word;
-    padding: 0px 10% 0px 10%;
+    padding: 10px 10% 20px 10%;
 }
 ​
 /* ====PC版==== */
@@ -169,10 +169,6 @@ footer {
 ​
     .container article {
         width: 60%;
-    }
-​
-    .container > :not(:first-child) {
-        margin-top: 100px;
     }
 ​
     .container :nth-child(even) {
